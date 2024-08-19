@@ -4,7 +4,7 @@
 
 ## Site🌐
 
-[ 🔗 Clique aqui para acessar](https://projeto-react-apis-pedrosvr.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://projetoreactapi.vercel.app/)
 
 ## 🛠️ Tecnologias
 - Reactjs
